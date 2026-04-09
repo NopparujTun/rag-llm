@@ -33,6 +33,9 @@ The project is organised as a **monorepo** containing two workspaces:
 - **Frontend** — An Expo / React Native mobile app with file-based routing, interactive flashcard practice, and a conversational AI coach.
 - **Backend** — A FastAPI Python service that handles PDF parsing, text embedding, LLM orchestration, and all data persistence through Supabase.
 
+## Live Demo
+* 🌐 **Web App:** [https://project-prepdeck-ai.vercel.app/]((https://project-prepdeck-ai.vercel.app/))
+* ☁️ **Backend API:** Hosted on Hugging Face Spaces (Port 7860)
 ---
 
 ## Key Features
