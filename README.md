@@ -34,7 +34,7 @@ The project is organised as a **monorepo** containing two workspaces:
 - **Backend** — A FastAPI Python service that handles PDF parsing, text embedding, LLM orchestration, and all data persistence through Supabase.
 
 ## Live Demo
-* 🌐 **Web App:** [https://project-prepdeck-ai.vercel.app/]((https://project-prepdeck-ai.vercel.app/))
+* 🌐 **Web App:** [https://project-prepdeck-ai.vercel.app/](https://project-prepdeck-ai.vercel.app/)
 * ☁️ **Backend API:** Hosted on Hugging Face Spaces (Port 7860)
 ---
 
