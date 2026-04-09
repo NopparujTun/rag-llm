@@ -1,5 +1,7 @@
 # PrepDeck AI 🚀
-
+<p align="center">
+  <img src="rag.png" alt="RAG Architecture" width="600"/>
+</p>
 **AI-Powered Interview Flashcard Coach** — Turn your resume and job descriptions into targeted, contextual interview flashcards using generative AI and Retrieval-Augmented Generation (RAG).
 
 ---
